@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">io</string>
+    <string-array name="districts">
+        <item>Anantapur</item>
+        <item>Chittoor</item>
+        <item>Kadapa</item>
+        <item>Nellore</item>
+        <item>prakasam</item>
+        <item>Guntur</item>
+        <item>Kurnool</item>
+    </string-array>
+
+
+    <string-array name="Anantapur_Mnadals">
+        <item>ATP1</item>
+        <item>ATP2</item>
+        <item>ATP3</item>
+        <item>ATP4</item>
+
+    </string-array>
+
+    <string-array name="Kurnool_mandals">
+        <item>KLN1</item>
+        <item>KLN2</item>
+        <item>KLN3</item>
+        <item>KLN4</item>
+
+
+    </string-array>
+
+
+
+
+</resources>
